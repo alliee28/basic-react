@@ -52,14 +52,6 @@ function About () {
               <p className="card-text">
                 I work on police evidence collection applications. These applications allow police officers and evidence managers to search evidence and add to incidents for external reasons.
               </p>
-              <div className="d-flex">
-                <img
-                  className="rounded-circle flex-shrink-0 me-3 fit-cover"
-                  width="50"
-                  height="50"
-                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
-                />
-              </div>
             </div>
           </div>
         </div>
