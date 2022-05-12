@@ -36,10 +36,6 @@ function About () {
                   height="50"
                   src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
                 />
-                <div>
-                  <p className="fw-bold mb-0">John Smith</p>
-                  <p className="text-muted mb-0">Erat netus</p>
-                </div>
               </div>
             </div>
           </div>
