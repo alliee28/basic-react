@@ -20,9 +20,6 @@ function Home () {
                 <p className="mb-4">
                   Allie is a UI/UX designer located in Miami, FL. She is graduating in May of 2022 with her masters degree in Interactive Media with an emphasis in user experience design.
                 </p>
-                <button className="btn btn-light fs-5 py-2 px-4" type="button">
-                  Button
-                </button>
               </div>
             </div>
           </div>

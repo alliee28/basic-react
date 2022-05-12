@@ -4,7 +4,7 @@ function Contact () {
     return(
     <>
             <div className="container" style={{width: "60%", marginTop: "104px"}}>
-      <h1>Contact Us</h1>
+      <h1>Contact Me</h1>
       <form>
         <label className="form-label">Name</label
         ><input className="form-control" type="text" /><label className="form-label"

@@ -204,12 +204,6 @@ function Teams () {
             <div
               className="card-body text-center d-flex flex-column align-items-center p-0"
             >
-              <img
-                className="rounded-circle mb-3 fit-cover"
-                width="130"
-                height="130"
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
-              />
               <h5 className="fw-bold text-warning card-title mb-0">
                 <strong>Daisy</strong>
               </h5>
@@ -276,7 +270,7 @@ function Teams () {
           </p>
         </blockquote>
         <figcaption className="blockquote-footer text-center">
-          Someone famous
+          
         </figcaption>
       </figure>
     </div>
