@@ -21,7 +21,7 @@ function Teams () {
               <h5 className="fw-bold text-warning card-title mb-0">
                 <strong>Snap</strong>
               </h5>
-              <p className="text-muted card-text mb-2">Erat netus</p>
+              <p className="text-muted card-text mb-2">Tabby Cat</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
                 <li className="list-inline-item text-center">
                   <div className="d-flex flex-column align-items-center">
@@ -83,7 +83,7 @@ function Teams () {
               <h5 className="fw-bold text-warning card-title mb-0">
                 <strong>Flash</strong>
               </h5>
-              <p className="text-muted card-text mb-2">Erat netus</p>
+              <p className="text-muted card-text mb-2">Whippet</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
                 <li className="list-inline-item text-center">
                   <div className="d-flex flex-column align-items-center">
@@ -145,7 +145,7 @@ function Teams () {
               <h5 className="fw-bold text-warning card-title mb-0">
                 <strong>Doja</strong>
               </h5>
-              <p className="text-muted card-text mb-2">Erat netus</p>
+              <p className="text-muted card-text mb-2">Tuxito Cat</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
                 <li className="list-inline-item text-center">
                   <div className="d-flex flex-column align-items-center">
@@ -211,9 +211,9 @@ function Teams () {
                 src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
               />
               <h5 className="fw-bold text-warning card-title mb-0">
-                <strong>John Smith</strong>
+                <strong>Daisy</strong>
               </h5>
-              <p className="text-muted card-text mb-2">Erat netus</p>
+              <p className="text-muted card-text mb-2">Cocker Spaniel</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
                 <li className="list-inline-item text-center">
                   <div className="d-flex flex-column align-items-center">
@@ -273,8 +273,6 @@ function Teams () {
       <figure>
         <blockquote className="blockquote">
           <p className="text-center mb-0">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-            posuere erat a ante.
           </p>
         </blockquote>
         <figcaption className="blockquote-footer text-center">
