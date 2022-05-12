@@ -40,10 +40,10 @@ function Nav () {
               <Link className="nav-link active" to="/">Home</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="teams">Our Team</Link>
+              <Link className="nav-link" to="teams">My Team</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="about">About Us</Link>
+              <Link className="nav-link" to="about">About Me</Link>
             </li>
           </ul>
           <Link

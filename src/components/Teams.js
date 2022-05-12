@@ -6,10 +6,9 @@ function Teams () {
             <div className="container py-4 py-xl-5">
       <div className="row mb-4 mb-lg-5">
         <div className="col-md-8 col-xl-6 text-center mx-auto">
-          <h2>Our Team</h2>
+          <h2>My Team</h2>
           <p className="w-lg-50">
-            Curae hendrerit donec commodo hendrerit egestas tempus, turpis
-            facilisis nostra nunc. Vestibulum dui eget ultrices.
+            I have a whole crew of animals that work by my side while I work.
           </p>
         </div>
       </div>
@@ -19,14 +18,8 @@ function Teams () {
             <div
               className="card-body text-center d-flex flex-column align-items-center p-0"
             >
-              <img
-                className="rounded-circle mb-3 fit-cover"
-                width="130"
-                height="130"
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
-              />
               <h5 className="fw-bold text-warning card-title mb-0">
-                <strong>John Smith</strong>
+                <strong>Snap</strong>
               </h5>
               <p className="text-muted card-text mb-2">Erat netus</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
@@ -87,14 +80,8 @@ function Teams () {
             <div
               className="card-body text-center d-flex flex-column align-items-center p-0"
             >
-              <img
-                className="rounded-circle mb-3 fit-cover"
-                width="130"
-                height="130"
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
-              />
               <h5 className="fw-bold text-warning card-title mb-0">
-                <strong>John Smith</strong>
+                <strong>Flash</strong>
               </h5>
               <p className="text-muted card-text mb-2">Erat netus</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
@@ -155,14 +142,8 @@ function Teams () {
             <div
               className="card-body text-center d-flex flex-column align-items-center p-0"
             >
-              <img
-                className="rounded-circle mb-3 fit-cover"
-                width="130"
-                height="130"
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt=""
-              />
               <h5 className="fw-bold text-warning card-title mb-0">
-                <strong>John Smith</strong>
+                <strong>Doja</strong>
               </h5>
               <p className="text-muted card-text mb-2">Erat netus</p>
               <ul className="list-inline fs-6 text-muted w-100 mb-0">
